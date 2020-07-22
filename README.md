@@ -4,7 +4,7 @@ My solutions to random competitive programming problems across platforms like Co
 
 Note:- 
 Solution file naming convention : 
-
+```
 (problem name/ problem code).language
-
+```
 Hence you can google the filename to find the links to the problem statements.
